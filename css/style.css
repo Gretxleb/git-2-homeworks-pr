@@ -1,4 +1,9 @@
 body {
+
+}
+
+.main {
+    overflow: hidden;
 }
 
 .wrapper {
@@ -22,4 +27,12 @@ footer {
     background: #1f1f1f;
     padding-top: 2em;
     padding-bottom: 1em;
+}
+
+.rounded {
+    border-radius: 0 !important;
+}
+
+.flex-container {
+    display: flex;
 }
