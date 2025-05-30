@@ -6,6 +6,6 @@
 
 Контакты:
 
-т. +7(495) 777-77-77
+Тел: 8 800 333 55 22
 
-E-mail: deimos@fobos.com
+Email: support@test.ru
