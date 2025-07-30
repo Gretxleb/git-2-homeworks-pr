@@ -4,4 +4,4 @@
 
 > Наш Open Source проект предназначен для объединения людей со всего мира!
 
-_Тут будут контакты_
+- [Ramzan Khan] (https://github.com/Khann-1/git-2-homeworks-pr.git)
